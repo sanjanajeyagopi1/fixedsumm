@@ -1,6 +1,5 @@
-PyPDF2==3.0.1
-streamlit==1.25.0
-openai==0.28.0  # This will cover the AzureChatOpenAI usage
-langchain==0.0.275  # Ensure compatibility with the PromptTemplate feature
-langchain_openai  # Install the correct version of langchain_openai if needed
-python-dotenv==1.0.0  # To load environment variables from .env file
+PyPDF2
+streamlit
+openai
+langchain
+python-dotenv
